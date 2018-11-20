@@ -18,15 +18,11 @@ This method could be used under different scenarios to test how the power or siz
 ## Results
 Below are the results tables showing how the power and size of both the t-test and te Mann-Whitney U-test are affected by the difference in sample means, difference in sample standard deviation (and so by extension variance) and the sample size.
 
-Relationship of power and size with difference in sample means and sample size:
+### Tables showing the relationship of power and size for the t-test and the Mann-Whitney U-test with sample size and the difference in sample means
 
-t-test:
+| t-test | | Difference in Means |
+| Sample Size | | --- |
 
-|-----------||Difference in Means|
-|Sample Size||0||0.5||1||3||5||10|
-|10         ||-||---||-||-||-||--|
-|100        ||-||---||-||-||-||--|
-|1000       ||-||---||-||-||-||--|
 
 ## Discussion
 
