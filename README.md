@@ -16,6 +16,9 @@ The size represents the probability that the null hypothesis is incorrectly reje
 This method could be used under different scenarios to test how the power or size of each test changed given the situation; in this case we calculated the powers and sizes for a variety of means and standard deviations for the distributions from which the data was generated, as well as a range of sample sizes.
 
 ## Results
+Below are the results tables showing how the power and size of both the t-test and te Mann-Whitney U-test are affected by the difference in sample means, difference in sample standard deviation (and so by extension variance) and the sample size.
+
+###t-test
 
 ## Discussion
 
