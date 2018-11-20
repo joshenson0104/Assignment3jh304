@@ -20,8 +20,8 @@ Below are the results tables showing how the power and size of both the t-test a
 
 ### Tables showing the relationship of power and size for the t-test and the Mann-Whitney U-test with sample size and the difference in sample means
 
-| t-test      | Difference in Means      |
-| ------------| ------------------------ |
+| t-test      | Difference in Means | - | - | - | - | - |
+| ------------| ------- | -- | - | - | - | - |
 | Sample Size | 0 | 0.5 | 1 | 3 | 5 | 10 |
 
 
